@@ -1,0 +1,6 @@
+.Rproj.user
+.DS_Store
+cache*/
+*.log
+*.run.xml
+*.bbl
